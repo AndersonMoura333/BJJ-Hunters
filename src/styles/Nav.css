@@ -1,0 +1,17 @@
+.Nav{
+    height: 14vh;
+    width: 100%;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-div{
+    margin: 0px 20px 0px 20px;
+}
+a{
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
