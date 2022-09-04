@@ -1,7 +1,14 @@
-.Nav{
-    height: 14vh;
+.nav-conteiner{
     width: 100%;
-    background-color: whitesmoke;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.Nav{
+    margin: 20px;
+    height: 14vh;
+    width: 80%;
+    background-color: red;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -13,5 +20,5 @@
 a{
     margin-right: 10px;
     text-decoration: none;
-    color: black;
+    color: white;
 }
